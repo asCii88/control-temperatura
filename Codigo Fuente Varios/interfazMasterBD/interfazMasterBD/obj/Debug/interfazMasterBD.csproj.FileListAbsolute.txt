@@ -1,0 +1,6 @@
+E:\Documents\SharpDevelop Projects\interfazMasterBD\interfazMasterBD\obj\Debug\interfazMasterBD.csprojResolveAssemblyReference.cache
+E:\Documents\SharpDevelop Projects\interfazMasterBD\interfazMasterBD\bin\Debug\interfazMasterBD.exe.config
+E:\Documents\SharpDevelop Projects\interfazMasterBD\interfazMasterBD\bin\Debug\interfazMasterBD.exe
+E:\Documents\SharpDevelop Projects\interfazMasterBD\interfazMasterBD\bin\Debug\interfazMasterBD.pdb
+E:\Documents\SharpDevelop Projects\interfazMasterBD\interfazMasterBD\obj\Debug\interfazMasterBD.exe
+E:\Documents\SharpDevelop Projects\interfazMasterBD\interfazMasterBD\obj\Debug\interfazMasterBD.pdb
